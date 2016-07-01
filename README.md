@@ -1,5 +1,5 @@
 # TiSocketIOClient
-Socket.io client fot Appcelerator Titanium
+Socket.io client for Appcelerator Titanium
 
 Finally you can play with Socket.io 1.x with Appcelerator Titanium!
 
