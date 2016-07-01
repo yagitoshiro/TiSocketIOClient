@@ -1,7 +1,7 @@
 # TiSocketIOClient
 Socket.io client for Appcelerator Titanium
 
-Finally you can play with Socket.io 1.x with Appcelerator Titanium!
+Finally you can play with Socket.io 1.x together with Appcelerator Titanium!
 
 ## Requirements
 
