@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: TiSocketIO
+author: Toshiro Yagi
+license: Specify your license
+copyright: Copyright (c) 2016 by Your Company
+
+# these should not be edited
+name: TiSocketIO
+moduleid: ro.toshi.ti.mod.tisocketio
+guid: fdd5cac6-e231-4cc8-a80e-78a8cc84a66a
+platform: android
+minsdk: 6.0.0.v20151223003308

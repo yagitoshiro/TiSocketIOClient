@@ -1,0 +1,3 @@
+framework module SocketIOClientSwift {
+    header "SocketIOClientSwift-Swift.h"
+}

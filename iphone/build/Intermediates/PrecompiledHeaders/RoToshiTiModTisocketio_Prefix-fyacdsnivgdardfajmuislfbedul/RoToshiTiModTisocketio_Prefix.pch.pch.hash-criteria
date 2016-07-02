@@ -1,0 +1,25 @@
+-x
+objective-c
+-arch
+armv7
+-std=c99
+-fpascal-strings
+-O0
+-DTI_VERSION=
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk
+-miphoneos-version-min=6.0
+-g
+-fembed-bitcode-marker
+-I/Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/build/Products/Debug-iphoneos/include
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiCore
+-I/Users/toshiro/Library/Application Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/JavaScriptCore
+-F/Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/build/Products/Debug-iphoneos
+-F/Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone
+-DDEBUG
+-DTI_POST_1_2
+arm-apple-darwin15.5.0
+"4.2.1 Compatible Apple LLVM 7.3.0 (clang-703.0.31)"
+SDK_PRODUCT_BUILD_VERSION=13E230
+13E230
