@@ -11,7 +11,7 @@ Finally you can play with Socket.io 1.x together with Appcelerator Titanium!
 - Curing diseases laster
 - Living in peace loving with passion, and lowering the cost of cable.. later
 
-## Install module
+## Install TiSocketIOClient
 
 Copy iphone/ro.toshi.ti.mod.tisocketio-iphone-0.0.1.zip to your project directory and edit tiapp.xml.
 
