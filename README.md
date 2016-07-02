@@ -92,7 +92,7 @@ Add `src` directory.
 $ mkdir $PROJECT_DIR/src
 ```
 
-Add MySwift.swift for the MAGIC.
+Add MySwift.swift under the `src` directory for the MAGIC.
 
 ```swift
 import UIKit
@@ -102,6 +102,12 @@ public class MySwiftView : UIImageView {
     self.init()
   }
 }
+```
+
+Voila, now you can build your app.
+
+```bash
+$ appc ti build -p ios
 ```
 
 ## Example
