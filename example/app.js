@@ -8,32 +8,29 @@
 var win = Ti.UI.createWindow({
 	backgroundColor:'white'
 });
-var label = Ti.UI.createLabel();
+var label = Ti.UI.createLabel({text: "Hello"});
 win.add(label);
 win.open();
 
 // TODO: write your module tests here
-var tisocketio = require('ro.toshi.ti.mod.tisocketio');
-Ti.API.info("module is => " + tisocketio);
+var socket, io;
 
-label.text = tisocketio.example();
+io = require('ro.toshi.ti.mod.tisocketio');
+socket = io.createSocket({
+  url: 'http://localhost:9999/'
+});
 
-Ti.API.info("module exampleProp is => " + tisocketio.exampleProp);
-tisocketio.exampleProp = "This is a test value";
+socket.on('connect', function(){
+  label.text = "connected";
+  socket.emit('message', {message: "hi"});
+});
 
-if (Ti.Platform.name == "android") {
-	var proxy = tisocketio.createExample({
-		message: "Creating an example Proxy",
-		backgroundColor: "red",
-		width: 100,
-		height: 100,
-		top: 100,
-		left: 150
-	});
+socket.on('serverPush', function(e){
+  label.text = e.message;
+});
 
-	proxy.printMessage("Hello world!");
-	proxy.message = "Hi world!.  It's me again.";
-	proxy.printMessage("Hello world!");
-	win.add(proxy);
-}
+socket.connect();
 
+win.addEventListener('close', function(){
+  socket.disconnect();
+});
