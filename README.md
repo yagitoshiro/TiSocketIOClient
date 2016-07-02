@@ -29,7 +29,7 @@ $ git clone https://github.com/appcelerator/hyperloop-examples.git
 $ cd hyperloop-examples
 ```
 
-Copy plugins/hyperloop and modules/{android,iphone}/hyperloop in hyperloop example to your project.
+Copy plugins/hyperloop and modules/{android,iphone}/hyperloop to your project.
 
 ```bash
 $ cp -r plugins/hyperloop $PROJECT_DIR/plugins/
