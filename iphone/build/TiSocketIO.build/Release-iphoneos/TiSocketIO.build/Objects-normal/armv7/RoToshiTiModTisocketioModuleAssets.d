@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/Classes/RoToshiTiModTisocketioModuleAssets.m \
-  /Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/Classes/RoToshiTiModTisocketioModuleAssets.h
+  /tmp/TiSocketIOClient/iphone/Classes/RoToshiTiModTisocketioModuleAssets.m \
+  /tmp/TiSocketIOClient/iphone/Classes/RoToshiTiModTisocketioModuleAssets.h

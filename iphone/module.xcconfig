@@ -11,7 +11,7 @@
 // How to add a Framework (example)
 //
 // OTHER_LDFLAGS=$(inherited) -framework Foo
-OTHER_LDFLAGS=$(inherited) -F/Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone -framework SocketIOClientSwift
+OTHER_LDFLAGS=$(inherited) -F$(SRCROOT) -framework SocketIOClientSwift
 //
 // Adding a framework for a specific version(s) of iPhone:
 //

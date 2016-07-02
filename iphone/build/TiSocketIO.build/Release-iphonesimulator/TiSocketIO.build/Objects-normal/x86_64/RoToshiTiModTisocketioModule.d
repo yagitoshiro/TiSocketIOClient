@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/Classes/RoToshiTiModTisocketioModule.m \
-  /Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/Classes/RoToshiTiModTisocketioModule.h \
+  /tmp/TiSocketIOClient/iphone/Classes/RoToshiTiModTisocketioModule.m \
+  /tmp/TiSocketIOClient/iphone/Classes/RoToshiTiModTisocketioModule.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiModule.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiProxy.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiEvaluator.h \

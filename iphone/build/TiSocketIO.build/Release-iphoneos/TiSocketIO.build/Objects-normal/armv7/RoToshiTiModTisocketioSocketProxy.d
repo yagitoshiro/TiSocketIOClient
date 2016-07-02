@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/RoToshiTiModTisocketioSocketProxy.m \
-  /Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/RoToshiTiModTisocketioSocketProxy.h \
+  /tmp/TiSocketIOClient/iphone/RoToshiTiModTisocketioSocketProxy.m \
+  /tmp/TiSocketIOClient/iphone/RoToshiTiModTisocketioSocketProxy.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiProxy.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiEvaluator.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/KrollContext.h \
@@ -21,4 +21,4 @@ dependencies: \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/defines.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiThreading.h \
   /Users/toshiro/Library/Application\ Support/Titanium/mobilesdk/osx/5.3.0.GA/iphone/include/TiPublicAPI.h \
-  /Users/toshiro/Documents/Appcelerator_Studio_Workspace/TiSocketIO/iphone/SocketIOClientSwift.framework/Headers/SocketIOClientSwift-Swift.h
+  /tmp/TiSocketIOClient/iphone/SocketIOClientSwift.framework/Headers/SocketIOClientSwift-Swift.h
