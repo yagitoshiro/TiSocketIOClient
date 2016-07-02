@@ -59,6 +59,12 @@ Edit `tiapp.xml`.
   </modules>
 ```
 
+Enable SDK 5.4.0.
+
+```xml
+<sdk-version>5.4.0.v20160617074028</sdk-version>
+```
+
 ## Setup Hyperloop to enable Swift
 
 Add `appc.js` to your project. The file `appc.js` should be placed under your project directory.
