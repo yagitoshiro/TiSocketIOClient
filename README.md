@@ -59,7 +59,7 @@ Edit `tiapp.xml`.
   </modules>
 ```
 
-## Setup Hyperloop to handle swift module
+## Setup Hyperloop to enable Swift
 
 Add `appc.js` to your project. The file `appc.js` should be placed under your project directory.
 
