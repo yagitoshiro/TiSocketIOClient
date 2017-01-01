@@ -1,3 +1,8 @@
+# SUSPENDED
+
+This module requires "Embedded Binary" be enabled via xcodebuild command, and fixing this JIRA ticket would make it happen:
+https://jira.appcelerator.org/browse/TIMOB-23570
+
 # TiSocketIOClient
 Socket.io client for Appcelerator Titanium
 
